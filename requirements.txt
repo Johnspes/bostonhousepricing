@@ -3,4 +3,4 @@ sklearn
 pandas
 numpy
 matplotlib
-gunicorn==20.0.4
+gunicorn
